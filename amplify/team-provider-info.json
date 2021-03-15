@@ -1,0 +1,38 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-appnewvcryptoamplify-dev-91910-authRole",
+      "UnauthRoleArn": "arn:aws:iam::491714636182:role/amplify-appnewvcryptoamplify-dev-91910-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::491714636182:role/amplify-appnewvcryptoamplify-dev-91910-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-appnewvcryptoamplify-dev-91910-deployment",
+      "UnauthRoleName": "amplify-appnewvcryptoamplify-dev-91910-unauthRole",
+      "StackName": "amplify-appnewvcryptoamplify-dev-91910",
+      "StackId": "arn:aws:cloudformation:us-west-2:491714636182:stack/amplify-appnewvcryptoamplify-dev-91910/0fa30f30-8357-11eb-b949-02434eab5ffb",
+      "AmplifyAppId": "d234ddl0ncvv2o"
+    },
+    "categories": {
+      "function": {
+        "appnewvcryptoamplify2118174c2118174cPostConfirmation": {
+          "deploymentBucketName": "amplify-appnewvcryptoamplify-dev-91910-deployment",
+          "s3Key": "amplify-builds/appnewvcryptoamplify2118174c2118174cPostConfirmation-5538702f647842422f7a-build.zip"
+        },
+        "ExchangeCoins": {
+          "deploymentBucketName": "amplify-appnewvcryptoamplify-dev-91910-deployment",
+          "s3Key": "amplify-builds/ExchangeCoins-4c367232387446764377-build.zip"
+        },
+        "FetchCoinsPrices": {
+          "deploymentBucketName": "amplify-appnewvcryptoamplify-dev-91910-deployment",
+          "s3Key": "amplify-builds/FetchCoinsPrices-324e4f59734f332b3851-build.zip"
+        },
+        "NetWorthCalculator": {
+          "deploymentBucketName": "amplify-appnewvcryptoamplify-dev-91910-deployment",
+          "s3Key": "amplify-builds/NetWorthCalculator-422b676771525a394464-build.zip"
+        }
+      },
+      "auth": {
+        "appnewvcryptoamplify2118174c2118174c": {}
+      }
+    }
+  }
+}

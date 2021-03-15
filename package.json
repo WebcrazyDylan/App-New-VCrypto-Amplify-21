@@ -12,11 +12,15 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "@aws-amplify/auth": "^3.4.26",
     "@expo/vector-icons": "^12.0.0",
     "@react-native-community/masked-view": "0.1.10",
+    "@react-native-community/netinfo": "5.9.7",
     "@react-navigation/bottom-tabs": "5.11.2",
     "@react-navigation/native": "~5.8.10",
     "@react-navigation/stack": "~5.12.8",
+    "aws-amplify": "^3.3.23",
+    "aws-amplify-react-native": "^4.3.1",
     "expo": "~40.0.0",
     "expo-asset": "~8.2.1",
     "expo-constants": "~9.3.0",
@@ -28,9 +32,11 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-40.0.1.tar.gz",
+    "react-native-chart-kit": "^6.11.0",
     "react-native-gesture-handler": "~1.8.0",
     "react-native-safe-area-context": "3.1.9",
     "react-native-screens": "~2.15.0",
+    "react-native-svg": "12.1.0",
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {

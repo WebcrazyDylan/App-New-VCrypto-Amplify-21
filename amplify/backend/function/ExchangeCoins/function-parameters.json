@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "api": {
+      "appnewvcryptoamplify": [
+        "Query",
+        "Mutation",
+        "Subscription"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
